@@ -2,7 +2,5 @@
 Collaborative work of Roland, Reynaldo and Owen of the Search Engine Project.
 
 
-
-Notes
-
+Notes:
 Encoding Type: UTF -8
